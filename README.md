@@ -2,12 +2,12 @@
 Baza danych o klubach piłkarskich, które użytkownik będzie mógł wybrać jedną z dostępnych lig oraz klub z dostępnej dla danej ligi puli. 
 Program wyświetli informacje dotyczące wybranego klubu (m. in. rok założenia, kapitana, stadion i jego pojemność).
 
-# Technologie
+## Technologie
 - C++
 - pętle
 - struktury
 
-# Funkcjonalności
+## Funkcjonalności
 Aplikacja konsolowa:
 
 a) ekran startowy - nazwa projektu, krótka instrukcja, informacje ogólne
